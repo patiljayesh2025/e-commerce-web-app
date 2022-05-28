@@ -1,0 +1,21 @@
+#profile {
+    border-radius: 50%;
+}
+
+.profile {
+    margin-top: 100px;
+    background-color: #ddd7d3;
+    width: 80%;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.details {
+    margin: 30px 40px 30px 40px;
+}
+
+.updatebtn {
+    margin-top: 20px;
+}
